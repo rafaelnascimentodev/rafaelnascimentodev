@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, sou o Rafael Dantas 👋
 
-<!--
-**rafaelnascimentodev/rafaelnascimentodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
 
-Here are some ideas to get you started:
+Desenvolvedor web desde 2019, trabalhando principalmente em projetos Java, usando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java 8, 11, 17
+- Spring boot
+- API's RESTFULL
+- JPA/Hibernate
+- TDD/JUnit 5
+- Banco de dados relacionais
+- Git / GitFlow
+
+## Um pouco sobre min
+
+Trabalho em equipe, flexibilidade, comunicação e comprometimento. Além de bom raciocínio lógico, organização e persistência, com enorme capacidade de enfrentar novos desafios. Bom desempenho em estudo e atento a novas tecnologias e inovação.
