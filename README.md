@@ -14,12 +14,12 @@ Colaboração efetiva em equipes ágeis, garantindo a entrega pontual de funcion
 
 ### Conhecimentos Técnicos:
 
--Linguagem de Programação: Java nas versões 8, 11 e 17
--Frameworks: Spring Boot, Spring Data JPA
--Desenvolvimento de APIs RESTful
--Banco de Dados Relacionais: MySQL, PostgreSQL, Oracle
--Controle de Versão: Git (GitHub, GitLab, Azure DevOps)
--Integração Contínua: Jenkins, Travis CI
--Metodologias Ágeis: Scrum
--Ferramentas de Gerenciamento de Projetos: Jira, Azure DevOps
+- Linguagem de Programação: Java nas versões 8, 11 e 17
+- Frameworks: Spring Boot, Spring Data JPA
+- Desenvolvimento de APIs RESTful
+- Banco de Dados Relacionais: MySQL, PostgreSQL, Oracle
+- Controle de Versão: Git (GitHub, GitLab, Azure DevOps)
+- Integração Contínua: Jenkins, Travis CI
+- Metodologias Ágeis: Scrum
+- Ferramentas de Gerenciamento de Projetos: Jira, Azure DevOps
 
